@@ -1,3 +1,4 @@
+#Neural network
 import nengo
 import numpy as np
 
